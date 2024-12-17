@@ -1,0 +1,90 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Header Styles */
+.header {
+    background-color: #0056b3;
+    color: white;
+    text-align: right;
+    padding: 2rem 1rem;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+.header p {
+    margin-top: 0.5rem;
+}
+
+.anchor-link {
+    color: #ffc107;
+    text-decoration: none;
+}
+
+.anchor-link:hover {
+    text-decoration: underline;
+}
+
+/* Content Section */
+.content {
+    padding: 2rem;
+}
+
+.featured-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 1rem;
+}
+
+/* List Section */
+.list-section {
+    background-color: #e9ecef;
+    padding: 2rem;
+    margin: 1rem 0;
+    border-radius: 8px;
+}
+
+.list-section h3 {
+    margin-top: 0;
+}
+
+/* Media Section */
+.media-section {
+    padding: 2rem;
+}
+
+/* Resources Section */
+.resources {
+    background-color: #dee2e6;
+    padding: 2rem;
+}
+
+.resources iframe {
+    border: none;
+}
+
+/* Footer Styles */
+.footer {
+    text-align: center;
+    background-color: #343a40;
+    color: white;
+    padding: 1rem;
+}
+
+.footer a {
+    color: #ffc107;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
